@@ -1,7 +1,6 @@
 # Natural-Language-Processing-with-Transformers
 
 1. Emotion detection using Tweets data (upcoming)
-
    * Interesting to-reads:
    
         1. <a href="https://imbalanced-learn.org/stable/" target="_blank">Imbalanced-learn Library in Pandas</a>
